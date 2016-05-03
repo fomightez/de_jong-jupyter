@@ -1,3 +1,6 @@
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/de_jong-jupyter)
+
 # de_jong-jupyter
 getting Peter De Jong attractor plotting working in a Jupyter notebook
 
